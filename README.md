@@ -1,0 +1,2 @@
+# PitBot
+Multifunctional Discord bot
